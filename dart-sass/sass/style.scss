@@ -1,0 +1,56 @@
+
+.bloc {
+    padding: 10px;
+    border-style: solid;
+    border-radius: 10px;
+
+}
+
+@mixin exercicestyle {
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+/*exo1*/
+.exercice1 {
+    background-color: goldenrod;
+   @include exercicestyle();
+
+}
+
+/*exo2*/
+
+.exercice2 {
+    background-color: pink;
+    @include exercicestyle();
+
+}
+
+/*exo3*/
+
+.exercice3 {
+    background-color: red;
+    @include exercicestyle();
+
+}
+
+/*exo4*/
+
+.exercice4 {
+    background-color: palegreen;
+    @include exercicestyle();
+
+}
+
+
+/*exo5*/
+
+.exercice5 {
+    background-color: lightseagreen;
+    @include exercicestyle();
+
+}

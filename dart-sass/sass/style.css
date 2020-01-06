@@ -1,0 +1,51 @@
+.bloc {
+  padding: 10px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+/*exo1*/
+.exercice1 {
+  background-color: goldenrod;
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/*exo2*/
+.exercice2 {
+  background-color: pink;
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/*exo3*/
+.exercice3 {
+  background-color: red;
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/*exo4*/
+.exercice4 {
+  background-color: palegreen;
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/*exo5*/
+.exercice5 {
+  background-color: lightseagreen;
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+/*# sourceMappingURL=style.css.map */
